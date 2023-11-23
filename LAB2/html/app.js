@@ -1,5 +1,5 @@
 var num = 10;
-    let name = "piyadanai"
+    let name = "Thanet"
     age = 20;
     const year = 2003;
 
@@ -15,7 +15,7 @@ var num = 10;
 
     dataJson = {
     employee:[
-    {name: "piyadanai"},{age: 20},{year: 2003}],
+    {name: "Thanet"},{age: 20},{year: 2003}],
     };
     
     console.log(dataJson.employee[0].name);
